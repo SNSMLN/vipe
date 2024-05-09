@@ -3,6 +3,9 @@ get binary
 wget https://snsmln.xyz/viper
 ***
 
+***
+pdf https://github.com/SNSMLN/viper-copy/blob/main/vipernet-xyz_viper-binaries_%20This%20repo%20consists%20of%20binary%20files%20to%20run%20a%20viper%20node.pdf
+***
 
 
 
